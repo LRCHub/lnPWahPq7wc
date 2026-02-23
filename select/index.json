@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "二十九、三十",
+  "base_artist": "銀杏BOYZ",
+  "createdAt": "2026-02-23T06:11:51.400004Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "二十九、三十",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/01_二十九、三十_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "二十九、三十",
+      "artist": "Ulfuls",
+      "has_synced": false,
+      "path": "select/02_二十九、三十_Ulfuls.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二十九、三十",
+      "artist": "銀杏BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_二十九、三十_銀杏BOYZ.txt"
+    }
+  ]
+}
